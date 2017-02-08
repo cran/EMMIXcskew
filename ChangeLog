@@ -1,0 +1,19 @@
+R package 'EMMIXcskew' changelog
+--------------------------------
+2017-02-07 (version 0.9-4)
+	* 	use mnormt package for calculating multivariate normal and t probabilities
+	*	allow for other alternative stopping criteria
+
+2016-03-11 (version 0.9-3)
+	*	fixed bug in fmcfust to allow for univariate data
+
+2015-09-24 (version 0.9-2)	
+	*	fixed bug in initialization routine
+	*	included init.cfust as an alias of init.fmcfust
+	*	fmcfust now accepts a new argument 'method'
+	
+2015-09-08  (version 0.9-1)
+	*	first version released
+
+	
+
