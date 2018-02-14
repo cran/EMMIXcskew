@@ -1,5 +1,9 @@
 R package 'EMMIXcskew' changelog
 --------------------------------
+2018-02-13 (version 0.9-5)
+	*	added CITATION file to refer to a JSS paper
+	* 	updated references in relevant .Rd pages
+	
 2017-02-07 (version 0.9-4)
 	* 	use mnormt package for calculating multivariate normal and t probabilities
 	*	allow for other alternative stopping criteria

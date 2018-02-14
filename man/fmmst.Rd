@@ -121,14 +121,20 @@ URL \url{http://www.jstatsoft.org/v55/i12/}.
 \seealso{
 \code{\link{fmcfust}}
 }
-\examples{
-\dontrun{
+\examples{   
+\dontshow{
+#example for checks only
+library(MASS)
+Fit <- fmmst(3, geyser, itmax=1)
+summary(Fit)
+}
+\donttest{
 #a short demo using geyser data
 library(MASS)
 Fit <- fmmst(3, geyser)
 summary(Fit)
 print(Fit)
-}
+} 
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.

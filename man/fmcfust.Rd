@@ -127,13 +127,18 @@ Some strategies are implemented in \code{\link{init.cfust}}.
 Lee S.X. and McLachlan, G.J. (2016). Finite mixtures of canonical fundamental 
 skew t-distributions: the unification of the restricted and unrestricted 
 skew t-mixture models. Statistics and Computing 26, 573-589
+
+Lee S.X. and McLachlan, G.J. (2017). EMMIXcskew: An R Package for the 
+Fitting of a Mixture of Canonical Fundamental Skew t-Distributions. 
+Journal of Statistical Software 83(3), 1-32. 
+URL \url{10.18637/jss.v083.i03}.   
  
 }
 \seealso{
 \code{\link{init.cfust}}, \code{\link{rfmcfust}}, \code{\link{dfmcfust}}, \code{\link{fmcfust.contour.2d}}
 }
 \examples{   
-\dontrun{                
+\donttest{                
 #a short demo using geyser data
 library(MASS)
 Fit <- fmcfust(3, geyser)

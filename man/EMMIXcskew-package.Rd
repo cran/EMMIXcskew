@@ -28,11 +28,12 @@ S.X. Lee, G.J. McLachlan
 \references{
 Lee S.X. and McLachlan, G.J. (2016). Finite mixtures of canonical fundamental 
 skew t-distributions: the unification of the restricted and unrestricted 
-skew t-mixture models. Statistics and Computing 26, 573-589
+skew t-mixture models. Statistics and Computing 26, 573-589.
 
-Lee, S.X. and McLachlan, G.J. (2017). EMMIXcskew: an R Package for 
-the fitting of a mixture of canonical fundamental skew t-distributions. 
-Journal of Statistical Software. To appear.  
+Lee S.X. and McLachlan, G.J. (2017). EMMIXcskew: An R Package for the 
+Fitting of a Mixture of Canonical Fundamental Skew t-Distributions. 
+Journal of Statistical Software 83(3), 1-32. 
+URL \url{10.18637/jss.v083.i03}.   
 
 }
 \keyword{ package }

@@ -1,5 +1,5 @@
-110a7f03751991b79dde6ec4fac71602 *ChangeLog
-627fd4c06c51db5dd5de00741a3ee102 *DESCRIPTION
+08274e41e68415e5efcdf93577c29ea3 *ChangeLog
+fe2fb43cd984ea08493c59dfc60bbef0 *DESCRIPTION
 e1956daf8946ee0cc18b08d3d24a6a60 *NAMESPACE
 00ddfd076ec1e88046e2db76cb334486 *R/contour.R
 abf5b2de003ed7f6026290b82bb06650 *R/density.R
@@ -8,10 +8,11 @@ cf111739a6fcf66c48907e9d3b295bfc *R/fmmst.r
 18961f79d0cc5d9063115e967937ec8f *R/initial.R
 93b920b28df615d98dbed9c467f1ffe9 *R/misc.r
 b5a95576d2b6c18361d87b5c374b74dc *R/random.R
-a3440b88978a60f32813cdc9bbc884b0 *man/EMMIXcskew-package.Rd
-ae91108c6b9153e021b25aa49fe0fa5d *man/dfmcfust.Rd
-a6acae1c290b5118f94a7899f65009c1 *man/fmcfust.Rd
-e790ce3c5d15fb117aa9df7906c1c4cc *man/fmcfust.contour.2d.Rd
-d4d3bb7d214bb3872f93a0e91c4593d3 *man/fmmst.Rd
-0a7576c3a48860757ba15ff72665172a *man/init.cfust.Rd
-5ea602f9546258b66a63945df2380a5b *man/random.Rd
+fd4aafc47aaae88558368866cf4e8799 *inst/CITATION
+877d91a9832c6dd9b6247a383e29b411 *man/EMMIXcskew-package.Rd
+1c4590037f59ca3ccedbd74e56573ed1 *man/dfmcfust.Rd
+41edb479951e3e88ea2b26beb1cc1db8 *man/fmcfust.Rd
+b90e0981e2a5d1a3aa6360afeff07300 *man/fmcfust.contour.2d.Rd
+5da4c30a3805a8a1b0ffcc6b383db719 *man/fmmst.Rd
+411ad9194eeb3c058c42909abd016e3b *man/init.cfust.Rd
+237a83d5f76d085300dd8ad28c47e5f7 *man/random.Rd
